@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase": "^8.2.10",
+    "materialize-css": "^1.0.0-rc.2",
     "vue": "^3.0.0",
+    "vuefire": "^2.2.5",
     "vuex": "^4.0.0-0"
   },
   "devDependencies": {
